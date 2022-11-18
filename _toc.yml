@@ -8,4 +8,4 @@ parts:
     - file:  notebooks/K2/K2_TPF/K2_TPF.ipynb
     - file:  notebooks/K2/k2_removing_instrumental_noise_using_pld/k2_removing_instrumental_noise_using_pld.ipynb
     - file:  notebooks/K2/K2_Lightcurve/K2_Lightcurve.ipynb
-    - file: notebooks/K2/beginner_how_to_use_ffi/beginner_how_to_use_ffi.ipynb
+    - file:  notebooks/K2/beginner_how_to_use_ffi/beginner_how_to_use_ffi.ipynb
