@@ -1,0 +1,9 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+format: jb-book
+root: intro
+parts:
+    chapters:
+    - file:  notebooks/K2/K2_TPF/K2_TPF.ipynb
+    - file:  notebooks/K2/k2_removing_instrumental_noise_using_pld/k2_removing_instrumental_noise_using_pld.ipynb
+    - file:  notebooks/K2/K2_Lightcurve/K2_Lightcurve.ipynb
